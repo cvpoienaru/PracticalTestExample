@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PracticalTestExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="navigate_to_secondary_activity">Navigate to secondary activity</string>
+    <string name="start_value">0</string>
+    <string name="press_me">Press me !</string>
+    <string name="press_me_too">Press me too !</string>
+    <string name="title_activity_practical_test_example_secondary">PracticalTestExampleSecondaryActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="sum">Sum</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
